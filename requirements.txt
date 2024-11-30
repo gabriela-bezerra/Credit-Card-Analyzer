@@ -1,0 +1,6 @@
+streamlit-lottie==0.0.5
+streamlit==1.39.0
+python-dotenv==1.0.1
+azure-ai-documentintelligence==1.0.0b2
+azure-storage-blob==12.23.1
+pandas==2.2.3
